@@ -1,0 +1,26 @@
+/* Fondo de color para todo el cuerpo de la página */
+body {
+    background-image: url(fondo.png); 
+    color: #333; 
+}
+
+h1{
+    
+    color: #f1ed10cb;
+    border-color: #81add3;
+    background-color: #ee2f39;
+}
+
+
+.card {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 700px;
+}
+
+.card-img-top {
+    object-fit: cover;
+}
+.ability_name{
+ font-weight: bold;
+}
